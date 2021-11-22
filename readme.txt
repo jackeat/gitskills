@@ -1,2 +1,1 @@
-Creating a new branch is quick.
-branch switch test
+Creating a new branch is quick & simple.
